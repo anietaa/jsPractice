@@ -18,4 +18,4 @@ function findArrayElementsNo(myArray){
 // let noOfElements = findArrayElementsNo([78, 23, 12, 67, 98, 112, 7]);
 // console.log(noOfElements);
 console.log(findArrayElementsNo(["ram", "shayam", "bobby", "peter"]));
-console.log(findArrayElementsNo([78, 23, 12, 67, 98, 112, 7]));
+console.log(findArrayElementsNo([78, 23, 12, 67, 98, 112, 7,8]));
